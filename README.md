@@ -35,3 +35,8 @@
  ![8](https://user-images.githubusercontent.com/81372269/230778799-d46d3fe1-45e5-46d0-bb8f-642318cb3b45.png)
 
 ![9](https://user-images.githubusercontent.com/81372269/230778817-d35151e8-28bc-4753-828e-879074cd9adf.png)
+
+
+## Technologies Used
+1. SQL
+2. Power BI
