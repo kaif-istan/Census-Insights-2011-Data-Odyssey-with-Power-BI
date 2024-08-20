@@ -1,4 +1,4 @@
-# India_Census_2011_Analysis
+# Census-Insights-2011-Data-Odyssey-with-Power-BI
  <h3 >Analysis of Indian Census 2011 through MSSQL and Power BI to generate insights. </h3>
 
  This project was developed by me, **Md Kaif**
